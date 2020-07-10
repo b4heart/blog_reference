@@ -14,7 +14,14 @@
 
 
 ## Git Commands
-* Git Clone :>git clone https://github.com/<yourid>/<your project>.git
-* Git Add :>git add *
-* Git Commit :>git commit -m "Added initial readme file"
-* Git Push :>git push
+* Git Clone
+`>git clone https://github.com/<yourid>/<your project>.git`
+* Git Add
+`>git add *`
+* Git Commit
+`>git commit -m "Added initial readme file"`
+* Git Push
+`>git push`
+* Git Change username:
+`>git config --local credential.helper ""`
+`>git push origin master`
